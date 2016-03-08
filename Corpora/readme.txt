@@ -22,11 +22,4 @@ Instructions to run from cmd:
 After the program execution, inverted index is saved in index.out as an Object. The BM25 scores are written to the file results.eval
 
 
-Hand ins:
-1. BM25 scores for the relevant 100 documents for each query are written to results.eval
-2. Explaination for this assignment is written in implementation.txt
 
-
-Please contact me if you find any illegible content/problem while executing the project.
-Email: vaka.s@husky.neu.edu
-Ph: 8579991605

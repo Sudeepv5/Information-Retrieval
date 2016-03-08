@@ -21,10 +21,3 @@ b. Check 'Select root directory'->Browse and Select Aragog folder->Click Finish
 
 3. To start the Crawler, run the Aragog Class(Main) from IDE and after the crawling is completed the respective Urls are written to /data/simple.txt and /data/focussed.txt
 
-
-P.S. The above process is tested on CCIS Linux machine using Eclipse IDE
-
-
-Please contact me if you find any illegible content/problem while setting up the project.
-Email: vaka.s@husky.neu.edu
-Ph: 8579991605
